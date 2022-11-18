@@ -1,2 +1,2 @@
 # commandLineRepo
-repo for using command line
+repo to practice using command line in terms of utilizing the repo
